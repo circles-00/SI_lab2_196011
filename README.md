@@ -1,6 +1,3 @@
-# SI_lab2_196011
-NAPOMENA: ZARADI NEKOJA PRICINA DOKUMENTACIJATA MI BESE IZBRISANA I VEDNAS JA UPDATE-NAV, KOGA VIDOV DEKA JA NEMA, PROEKTOT E ZAVRSEN ZAKLUCNO NA 27.5.2021. SE IZVINUVAM ZA MOJATA GRESKA
-
 *Control Flow Graph
 <img src="https://raw.githubusercontent.com/darknet-00/SI_lab2_196011/master/Control_Flow_Graph.png"
      alt="Control_Flow_Graph"
